@@ -31,6 +31,7 @@
 			<value code="SILVER" />
 			<value code="WHITE" />
 			<value code="YELLOW" />
+			<value code="LIGHTGREEN"/>
 		</enumtype>
 
 		<enumtype code="RewardStatusLevel" autocreate="true"
